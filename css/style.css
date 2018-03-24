@@ -1,0 +1,45 @@
+.wrap{
+	width: 960px;
+	margin: auto;
+	overflow: hidden;
+}
+/*
+***************************
+   *****   miscansellous   *****
+***************************
+*/
+footer li, .nav li {
+	display: inline;
+}   
+/*
+***************************
+   *****   Header   *****
+***************************
+*/   
+
+.nav{
+	float: right;
+}
+
+/*
+***************************
+   *****   main   *****
+***************************
+*/   
+.main{
+	height: 391px;
+	clear: both;
+	position: relative;
+	left: 340px;
+
+	top: 200px;
+	display: inline-block;
+
+}
+.main h1{
+	text-indent: -100000px;
+	background: url(../img/google.png) no-repeat;
+	width: 272px;
+	height: 100px;
+
+	
